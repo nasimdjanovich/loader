@@ -1,7 +1,7 @@
 # loader
 Simple Loader using HTML, CSS and JavaScript
 
-Website link: https://karimjans-portfolio.netlify.app
+Website link: https://simple-loader-red.netlify.app/
 
 Telegram: https://t.me/karimjan_webdev
 
